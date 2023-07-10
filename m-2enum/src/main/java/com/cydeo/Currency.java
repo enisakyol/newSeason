@@ -12,3 +12,5 @@ public enum Currency {
         return value;
     }
 }
+
+//
